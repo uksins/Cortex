@@ -6,7 +6,6 @@ C:\Users\Roslyn-Emma\OneDrive\Desktop\Git\Cortex\obj\Debug\Cortex.csproj.Suggest
 C:\Users\Roslyn-Emma\OneDrive\Desktop\Git\Cortex\obj\Debug\Cortex.csproj.CoreCompileInputs.cache
 C:\Users\Roslyn-Emma\OneDrive\Desktop\Git\Cortex\obj\Debug\Cortex.exe
 C:\Users\Roslyn-Emma\OneDrive\Desktop\Git\Cortex\obj\Debug\Cortex.pdb
-C:\Users\Roslyn-Emma\OneDrive\Desktop\Git\Cortex\bin\Debug\Veylib.dll
 C:\Users\Roslyn-Emma\OneDrive\Desktop\Git\Cortex\bin\Debug\Newtonsoft.Json.dll
 C:\Users\Roslyn-Emma\OneDrive\Desktop\Git\Cortex\bin\Debug\Veylib.pdb
 C:\Users\Roslyn-Emma\OneDrive\Desktop\Git\Cortex\obj\Debug\Cortex.csproj.CopyComplete

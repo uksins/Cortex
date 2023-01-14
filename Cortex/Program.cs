@@ -47,6 +47,9 @@ namespace Cortex
 
             var TargetDirectory = CLI.ReadLine("Directory To Clone Into ›› ");
             var TargetRepo = CLI.ReadLine("Git Repository To Clone ›› ");
+            dir = TargetDirectory.ToString();
+
+            Process.Start("cmd", $"/C cd {TargetDirectory} && git clone https://github.com/{TargetRepo}");
 
             CLI.WriteLine("Attempted To Clone The Repo: Closing In 3 Seconds.");
             CLI.Delay(3000);
